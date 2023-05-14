@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Irr Elevant",
+        "email": irr@elevant.com,
+        "phone": 0787665990,
+        "password": please
+    }
+]

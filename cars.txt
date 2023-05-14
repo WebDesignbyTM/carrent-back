@@ -1,0 +1,802 @@
+[
+	{
+		"brand": "Rimac Automobili",
+		"model": "Pathfinder"
+	},
+	{
+		"brand": "Peugeot",
+		"model": "Odyssey"
+	},
+	{
+		"brand": "Ram",
+		"model": "Lancer"
+	},
+	{
+		"brand": "Tesla",
+		"model": "Model X"
+	},
+	{
+		"brand": "Koenigsegg",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Rivian",
+		"model": "Optima"
+	},
+	{
+		"brand": "Infiniti",
+		"model": "Model 3"
+	},
+	{
+		"brand": "Acura",
+		"model": "Volt"
+	},
+	{
+		"brand": "Land Rover",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Volkswagen",
+		"model": "Civic"
+	},
+	{
+		"brand": "Rimac Automobili",
+		"model": "Focus"
+	},
+	{
+		"brand": "Mercedes-Benz",
+		"model": "Volt"
+	},
+	{
+		"brand": "Lexus",
+		"model": "Q50"
+	},
+	{
+		"brand": "Tata Motors",
+		"model": "Civic"
+	},
+	{
+		"brand": "Bugatti",
+		"model": "Prius"
+	},
+	{
+		"brand": "Czinger",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Jeep",
+		"model": "Odyssey"
+	},
+	{
+		"brand": "Kia",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Jaguar",
+		"model": "Camaro"
+	},
+	{
+		"brand": "Geely",
+		"model": "Volt"
+	},
+	{
+		"brand": "Singer Vehicle Design",
+		"model": "Wrangler"
+	},
+	{
+		"brand": "Bugatti",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Mazda",
+		"model": "Venza"
+	},
+	{
+		"brand": "Ruf Automobile",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Buick",
+		"model": "Civic"
+	},
+	{
+		"brand": "GMC",
+		"model": "Fusion"
+	},
+	{
+		"brand": "Rolls-Royce",
+		"model": "Altima"
+	},
+	{
+		"brand": "Lucid Motors",
+		"model": "Civic"
+	},
+	{
+		"brand": "Rivian",
+		"model": "Pacifica"
+	},
+	{
+		"brand": "Mercedes-Benz",
+		"model": "Charger"
+	},
+	{
+		"brand": "Acura",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Ferrari",
+		"model": "Q60"
+	},
+	{
+		"brand": "Koenigsegg",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Lexus",
+		"model": "Z4"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Elantra"
+	},
+	{
+		"brand": "Sono Motors",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Volkswagen",
+		"model": "Focus"
+	},
+	{
+		"brand": "Nissan",
+		"model": "Model S"
+	},
+	{
+		"brand": "Alfa Romeo",
+		"model": "Model 3"
+	},
+	{
+		"brand": "Ford",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Mercedes-Benz",
+		"model": "Tacoma"
+	},
+	{
+		"brand": "Ford",
+		"model": "Ranger"
+	},
+	{
+		"brand": "Mitsubishi",
+		"model": "Q50"
+	},
+	{
+		"brand": "Chrysler",
+		"model": "Model X"
+	},
+	{
+		"brand": "Genesis",
+		"model": "Explorer"
+	},
+	{
+		"brand": "Cadillac",
+		"model": "Accord"
+	},
+	{
+		"brand": "TVR",
+		"model": "Mazda3"
+	},
+	{
+		"brand": "Aviar Motors",
+		"model": "Q60"
+	},
+	{
+		"brand": "Ferrari",
+		"model": "Pathfinder"
+	},
+	{
+		"brand": "Faraday Future",
+		"model": "Model X"
+	},
+	{
+		"brand": "Bugatti",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Audi",
+		"model": "Altima"
+	},
+	{
+		"brand": "Mitsubishi",
+		"model": "Charger"
+	},
+	{
+		"brand": "Rivian",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Lamborghini",
+		"model": "Charger"
+	},
+	{
+		"brand": "Genesis",
+		"model": "Tacoma"
+	},
+	{
+		"brand": "Czinger",
+		"model": "Charger"
+	},
+	{
+		"brand": "Vanderhall Motor Works",
+		"model": "Model X"
+	},
+	{
+		"brand": "Maserati",
+		"model": "Charger"
+	},
+	{
+		"brand": "GMC",
+		"model": "Wrangler"
+	},
+	{
+		"brand": "Mercedes-Benz",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Alfa Romeo",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Zenvo",
+		"model": "Taurus"
+	},
+	{
+		"brand": "Volkswagen",
+		"model": "Fusion"
+	},
+	{
+		"brand": "Bollinger Motors",
+		"model": "Maxima"
+	},
+	{
+		"brand": "Polestar",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Hyundai",
+		"model": "Spark"
+	},
+	{
+		"brand": "Porsche",
+		"model": "Civic"
+	},
+	{
+		"brand": "Nikola Corporation",
+		"model": "Yaris"
+	},
+	{
+		"brand": "GMC",
+		"model": "Model X"
+	},
+	{
+		"brand": "Volvo",
+		"model": "Camaro"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Camaro"
+	},
+	{
+		"brand": "Tata Motors",
+		"model": "Z4"
+	},
+	{
+		"brand": "Bugatti",
+		"model": "Fusion"
+	},
+	{
+		"brand": "Spyker",
+		"model": "Model S"
+	},
+	{
+		"brand": "Pininfarina",
+		"model": "Elantra"
+	},
+	{
+		"brand": "Tesla",
+		"model": "Tacoma"
+	},
+	{
+		"brand": "Karma Automotive",
+		"model": "Pacifica"
+	},
+	{
+		"brand": "Nissan",
+		"model": "Sienna"
+	},
+	{
+		"brand": "Buick",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Bentley",
+		"model": "Camry"
+	},
+	{
+		"brand": "Maserati",
+		"model": "Q60"
+	},
+	{
+		"brand": "Rimac Automobili",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Citroen",
+		"model": "Outback"
+	},
+	{
+		"brand": "Citroen",
+		"model": "Q60"
+	},
+	{
+		"brand": "BYD",
+		"model": "Explorer"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Czinger",
+		"model": "Civic"
+	},
+	{
+		"brand": "Spyker",
+		"model": "Volt"
+	},
+	{
+		"brand": "Saab",
+		"model": "Impala"
+	},
+	{
+		"brand": "Mahindra Automotive",
+		"model": "Accord"
+	},
+	{
+		"brand": "Mahindra Automotive",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Mini",
+		"model": "Sentra"
+	},
+	{
+		"brand": "Aviar Motors",
+		"model": "Lancer"
+	},
+	{
+		"brand": "Land Rover",
+		"model": "Yaris"
+	},
+	{
+		"brand": "Aviar Motors",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Bollinger Motors",
+		"model": "Impala"
+	},
+	{
+		"brand": "Land Rover",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Pininfarina",
+		"model": "Rav4"
+	},
+	{
+		"brand": "Geely",
+		"model": "Wrangler"
+	},
+	{
+		"brand": "Buick",
+		"model": "Trax"
+	},
+	{
+		"brand": "TVR",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Volvo",
+		"model": "Sentra"
+	},
+	{
+		"brand": "BMW",
+		"model": "Mazda3"
+	},
+	{
+		"brand": "Jaguar",
+		"model": "Optima"
+	},
+	{
+		"brand": "Ferrari",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Karma Automotive",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Karma Automotive",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Honda",
+		"model": "Tahoe"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Optima"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Volt"
+	},
+	{
+		"brand": "Cadillac",
+		"model": "Yaris"
+	},
+	{
+		"brand": "Lamborghini",
+		"model": "Taurus"
+	},
+	{
+		"brand": "Ford",
+		"model": "Prius"
+	},
+	{
+		"brand": "Chevrolet",
+		"model": "Q50"
+	},
+	{
+		"brand": "McLaren",
+		"model": "Civic"
+	},
+	{
+		"brand": "Land Rover",
+		"model": "X5"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Fusion"
+	},
+	{
+		"brand": "Hyundai",
+		"model": "Volt"
+	},
+	{
+		"brand": "Koenigsegg",
+		"model": "Explorer"
+	},
+	{
+		"brand": "Lotus",
+		"model": "Charger"
+	},
+	{
+		"brand": "NanoFlowcell",
+		"model": "Passat"
+	},
+	{
+		"brand": "McLaren",
+		"model": "Corolla"
+	},
+	{
+		"brand": "Vanderhall Motor Works",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Ram",
+		"model": "Spark"
+	},
+	{
+		"brand": "Nissan",
+		"model": "Civic"
+	},
+	{
+		"brand": "BAC",
+		"model": "Cruze"
+	},
+	{
+		"brand": "Spyker",
+		"model": "Mustang"
+	},
+	{
+		"brand": "Spyker",
+		"model": "Rav4"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Wrangler"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Yaris"
+	},
+	{
+		"brand": "Mini",
+		"model": "Volt"
+	},
+	{
+		"brand": "Karma Automotive",
+		"model": "Sentra"
+	},
+	{
+		"brand": "Bollinger Motors",
+		"model": "Civic"
+	},
+	{
+		"brand": "Renault",
+		"model": "Explorer"
+	},
+	{
+		"brand": "BMW",
+		"model": "Wrangler"
+	},
+	{
+		"brand": "Audi",
+		"model": "Mazda3"
+	},
+	{
+		"brand": "Kia",
+		"model": "Q60"
+	},
+	{
+		"brand": "Chrysler",
+		"model": "Charger"
+	},
+	{
+		"brand": "Renault",
+		"model": "Sentra"
+	},
+	{
+		"brand": "Volkswagen",
+		"model": "Wrangler"
+	},
+	{
+		"brand": "Saleen",
+		"model": "Explorer"
+	},
+	{
+		"brand": "Lexus",
+		"model": "Sentra"
+	},
+	{
+		"brand": "Bollinger Motors",
+		"model": "Malibu"
+	},
+	{
+		"brand": "DeltaWing Racing Cars",
+		"model": "Lancer"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Elantra"
+	},
+	{
+		"brand": "Karma Automotive",
+		"model": "Jetta"
+	},
+	{
+		"brand": "Geely",
+		"model": "Sentra"
+	},
+	{
+		"brand": "NanoFlowcell",
+		"model": "Rav4"
+	},
+	{
+		"brand": "Tesla",
+		"model": "Lancer"
+	},
+	{
+		"brand": "Renault",
+		"model": "Tacoma"
+	},
+	{
+		"brand": "Hennessey Performance Engineering",
+		"model": "Taurus"
+	},
+	{
+		"brand": "Mazda",
+		"model": "Sienna"
+	},
+	{
+		"brand": "Pagani",
+		"model": "Fusion"
+	},
+	{
+		"brand": "Rimac Automobili",
+		"model": "Maxima"
+	},
+	{
+		"brand": "Bentley",
+		"model": "Civic"
+	},
+	{
+		"brand": "Czinger",
+		"model": "Volt"
+	},
+	{
+		"brand": "Ford",
+		"model": "Cruze"
+	},
+	{
+		"brand": "Fisker Inc",
+		"model": "Camaro"
+	},
+	{
+		"brand": "Aston Martin",
+		"model": "Maxima"
+	},
+	{
+		"brand": "Ford",
+		"model": "Cruze"
+	},
+	{
+		"brand": "Genesis",
+		"model": "Malibu"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Camry"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Civic"
+	},
+	{
+		"brand": "Volvo",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Ruf Automobile",
+		"model": "Focus"
+	},
+	{
+		"brand": "Lamborghini",
+		"model": "Optima"
+	},
+	{
+		"brand": "GMC",
+		"model": "Ranger"
+	},
+	{
+		"brand": "Volkswagen",
+		"model": "Model S"
+	},
+	{
+		"brand": "Jaguar",
+		"model": "Passat"
+	},
+	{
+		"brand": "Saleen",
+		"model": "X5"
+	},
+	{
+		"brand": "Pagani",
+		"model": "Q60"
+	},
+	{
+		"brand": "Bollinger Motors",
+		"model": "Lancer"
+	},
+	{
+		"brand": "Buick",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Alpine",
+		"model": "Model 3"
+	},
+	{
+		"brand": "Bollinger Motors",
+		"model": "Yaris"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Maxima"
+	},
+	{
+		"brand": "Mahindra Automotive",
+		"model": "Volt"
+	},
+	{
+		"brand": "Alfa Romeo",
+		"model": "Taurus"
+	},
+	{
+		"brand": "Nissan",
+		"model": "Q50"
+	},
+	{
+		"brand": "Honda",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Fisker Inc",
+		"model": "Q60"
+	},
+	{
+		"brand": "Zenvo",
+		"model": "Venza"
+	},
+	{
+		"brand": "Ram",
+		"model": "Camry"
+	},
+	{
+		"brand": "Rivian",
+		"model": "Sentra"
+	},
+	{
+		"brand": "McLaren",
+		"model": "Corolla"
+	},
+	{
+		"brand": "Toyota",
+		"model": "Venza"
+	},
+	{
+		"brand": "McLaren",
+		"model": "Cruze"
+	},
+	{
+		"brand": "Fiat",
+		"model": "Mustang"
+	},
+	{
+		"brand": "De Tomaso",
+		"model": "Altima"
+	},
+	{
+		"brand": "Rimac Automobili",
+		"model": "Civic"
+	},
+	{
+		"brand": "Genesis",
+		"model": "Yaris"
+	},
+	{
+		"brand": "Pagani",
+		"model": "Q50"
+	},
+	{
+		"brand": "Rolls-Royce",
+		"model": "Jetta"
+	},
+	{
+		"brand": "Hennessey Performance Engineering",
+		"model": "Corolla"
+	},
+	{
+		"brand": "Hennessey Performance Engineering",
+		"model": "Avalon"
+	},
+	{
+		"brand": "Volvo",
+		"model": "Z4"
+	},
+	{
+		"brand": "Maserati",
+		"model": "Model 3"
+	},
+	{
+		"brand": "Aston Martin",
+		"model": "Fusion"
+	},
+	{
+		"brand": "Lotus",
+		"model": "Outback"
+	}
+]
