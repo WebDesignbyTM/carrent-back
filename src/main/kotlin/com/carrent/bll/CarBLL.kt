@@ -10,33 +10,39 @@ import org.jetbrains.letsPlot.geom.geomPoint
 import org.jetbrains.letsPlot.letsPlot
 import java.io.File
 
-class CarBLL(val carDAO: CarDAO) {
+object CarBLL {
+    var carDAO: CarDAO? = null
+
+    fun init(newCarDAO: CarDAO) {
+        carDAO = newCarDAO
+    }
+
     suspend fun getAllCars(): List<Car> {
-        return carDAO.selectAll()
+        return carDAO!!.selectAll()
     }
 
     suspend fun deleteCarById(id: Int) {
-        carDAO.deleteCarById(id)
+        carDAO!!.deleteCarById(id)
     }
 
     suspend fun registerNewCar(brand: String, model: String) {
-        carDAO.createCar(brand, model)
+        carDAO!!.createCar(brand, model)
     }
 
     suspend fun getCarById(id: Int): Car? {
-        return carDAO.selectById(id)
+        return carDAO!!.selectById(id)
     }
 
     suspend fun getCarByBrand(brand: String): List<Car> {
-        return carDAO.selectByBrand(brand)
+        return carDAO!!.selectByBrand(brand)
     }
 
     suspend fun getCarByModel(model: String): List<Car> {
-        return carDAO.selectByModel(model)
+        return carDAO!!.selectByModel(model)
     }
 
     suspend fun updateCarById(car: Car) {
-        carDAO.updateCar(car)
+        carDAO!!.updateCar(car)
     }
 
     suspend fun loadCarsFromFile(filename: String) {
